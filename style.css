@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.canvas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 3rem;
+}
+
+span {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+#pink {
+  background-color: pink;
+}
+
+#white {
+  background-color: white;
+}
+
+#gray {
+  background-color: gray;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+h2 {
+  display: flex;
+  justify-content: center;
+}
